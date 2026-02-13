@@ -5,7 +5,7 @@ import "./index.css";
 
 import HomePage from "./landing_page/home/HomePage.jsx";
 import AboutPage from "./landing_page/about/AboutPage.jsx";
-import ProductPage from "./landing_page/products/ProductsPage.jsx";
+import ProductPage from "./landing_page/products/Productspage.jsx";
 import PricingPage from "./landing_page/pricing/PricingPage.jsx";
 import SupportPage from "./landing_page/support/SupportPage.jsx";
 
