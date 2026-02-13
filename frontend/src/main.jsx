@@ -11,7 +11,7 @@ import SupportPage from "./landing_page/support/SupportPage.jsx";
 
 import Navbar from "./landing_page/Navbar.jsx";
 import Footer from "./landing_page/Footer.jsx";
-import NotFound from "./landing_page/NotFound.jsx";
+import NotFound from "./landing_page/NotFoun.jsx";
 
 createRoot(document.getElementById("root")).render(
   <BrowserRouter>
