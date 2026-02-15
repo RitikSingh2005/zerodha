@@ -14,10 +14,10 @@ React Router (for internal routing)
 
 Git & GitHub (for version control)
 
-# 📁 Project Structure
+## 📁 Project Structure
 
 ```bash
-zerodha-clone/
+zerodha
 │
 ├── backend/                     # Node.js + Express API
 │   ├── config/
@@ -46,4 +46,68 @@ zerodha-clone/
 │   ├── middleware/             # Authentication & validation
 │   │   └── authMiddleware.js
 │   │
-│   ├── utils/                  # Helper fun
+│   ├── utils/                  # Helper functions
+│   │
+│   ├── .env
+│   ├── index.js
+│   └── package.json
+│
+├── dashboard/                  # Trading dashboard (React + Vite)
+│   ├── public/
+│   │
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Apps.jsx
+│   │   │   ├── DoughnutChart.jsx
+│   │   │   ├── Funds.jsx
+│   │   │   ├── Holdings.jsx
+│   │   │   ├── Menu.jsx
+│   │   │   ├── Orders.jsx
+│   │   │   ├── Positions.jsx
+│   │   │   ├── Summary.jsx
+│   │   │   ├── TopBar.jsx
+│   │   │   ├── VerticalGraph.jsx
+│   │   │   └── WatchList.jsx
+│   │   │
+│   │   ├── pages/
+│   │   │   ├── Dashboard.jsx
+│   │   │   └── Home.jsx
+│   │   │
+│   │   ├── data/
+│   │   │   └── data.js
+│   │   │
+│   │   ├── main.jsx
+│   │   └── index.css
+│   │
+│   ├── index.html
+│   ├── vite.config.js
+│   └── package.json
+│
+├── frontend/                   # Marketing / Landing website
+│   ├── public/
+│   │   └── media/images/
+│   │
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Navbar.jsx
+│   │   │   ├── Footer.jsx
+│   │   │   └── OpenAccount.jsx
+│   │   │
+│   │   ├── pages/
+│   │   │   ├── home/
+│   │   │   ├── about/
+│   │   │   ├── pricing/
+│   │   │   ├── products/
+│   │   │   ├── signup/
+│   │   │   ├── support/
+│   │   │   └── NotFound.jsx
+│   │   │
+│   │   ├── main.jsx
+│   │   └── index.css
+│   │
+│   ├── index.html
+│   ├── vite.config.js
+│   └── package.json
+│
+└── README.md
+```
