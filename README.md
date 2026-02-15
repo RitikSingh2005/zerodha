@@ -1,6 +1,8 @@
 # Zerodha Frontend
 
-This repository contains the landing page of the Zerodha clone, built using React.js. It replicates the look and feel of the official Zerodha homepage with a modular structure and modern styling.
+For the optimal viewing experience, please access this repository on a laptop or desktop.
+This repository presents the landing page of a Zerodha clone, developed using React.js to closely replicate the design, layout, and user experience of the official Zerodha platform. The project follows a modular, component-driven architecture and modern frontend development practices to ensure scalability, maintainability, and clean UI implementation.
+
 
 # Tech Stack
 
