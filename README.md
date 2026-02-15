@@ -111,3 +111,6 @@ zerodha
 │
 └── README.md
 ```
+
+# Screenshot
+![Image Alt](https://github.com/RitikSingh2005/zerodha/blob/main/Screenshot%202026-02-15%20114309.png)
