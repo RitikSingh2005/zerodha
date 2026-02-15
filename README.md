@@ -114,3 +114,8 @@ zerodha
 
 # Screenshot
 ![Image Alt](https://github.com/RitikSingh2005/zerodha/blob/main/Screenshot%202026-02-15%20114309.png)
+![Image Alt](https://github.com/RitikSingh2005/zerodha/blob/main/Screenshot%202026-02-15%20114346.png)
+![Image Alt](https://github.com/RitikSingh2005/zerodha/blob/main/Screenshot%202026-02-15%20114409.png)
+![Image Alt](https://github.com/RitikSingh2005/zerodha/blob/main/Screenshot%202026-02-15%20114538.png)
+![Image Alt](https://github.com/RitikSingh2005/zerodha/blob/main/Screenshot%202026-02-15%20114642.png)
+![Image Alt](https://github.com/RitikSingh2005/zerodha/blob/main/Screenshot%202026-02-15%20114706.png)
